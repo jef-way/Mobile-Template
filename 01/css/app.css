@@ -1,0 +1,139 @@
+/* Write your styles */
+body{
+	background: #f3f3f3;
+}
+.am-header-default{
+	background: #003c72 url(../images/header-right-bg.png) no-repeat right bottom;
+	/*height: 86px;*/
+
+}
+.am-slider-default .am-control-nav{
+	bottom:10px;
+}
+.am-slider-default{
+	margin-bottom: 0;
+}
+.am-phone{
+	font-size: 2.4rem;
+	text-align: center;
+	background: #5097f5;
+	color:#ffffff;
+	padding:1rem;
+}
+.am-phone p{
+	display: inline-block;
+	padding-left: 45px;
+	margin-bottom: 0;
+	background: url(../images/am-phone.png) no-repeat left center;
+}
+
+.pro-cate li{
+	text-align: center;
+	padding:.5rem;
+}
+.pro-cate li a{
+	display: inline-block;
+	width: 100%;
+	
+	background: #888888;
+}
+.pro-cate li h3{
+	display: inline-block;
+	font-size:1.6rem;
+	color:#fff;
+	
+	padding:1rem 1.5rem;
+}
+.am-list-news-hd{
+	text-align: center;
+}
+.am-list-news-hd strong{
+	display: block;
+	font-size: 4rem;
+	color:#003c72;
+}
+.am-list-news-hd span{
+	font-size: 2.8rem;
+	color:#888888;
+
+}
+.pro-show li .am-gallery-item{
+	background: #fff;
+}
+.pro-show li .am-gallery-title{
+	padding:0.5rem;
+	font-size: 2rem;
+	color:#003c72;
+}
+.pro-show li .am-gallery-desc{
+	padding:0.5rem;
+	font-size: 1.4rem;
+	color:#666666;
+}
+.more{
+	margin: 2rem 0;
+}
+.intro{
+	background: #003c72;
+}
+.intro strong{
+	color:#f8b600;
+}
+.intro span{
+	color:#fff;
+}
+.intro-content{
+	text-align: center;
+	padding:2rem;
+}
+.intro-txt{
+	text-align: left;
+	font-size: 1.6rem;
+	color: #ffffff;
+	margin-top: 2rem;
+}
+
+.news li{
+	
+	/*border-top:none;*/
+	background: #f3f3f3 url(../images/ico-li.png) no-repeat left center;
+	/*border-bottom: 1px solid #9c9c9c;*/
+	padding-left: 2rem;
+}
+.news li:nth-child(1){
+	border-top: none;
+}
+.news li a{
+	font-size: 1.8rem;
+	color:#555555;
+}
+.map{
+	border:1px solid #ececec;
+}
+.footer{
+	background: none;
+	margin:2rem 0;
+}
+.navbar .am-navbar-nav{
+	background-color: #2e2e2e;
+
+}
+.menu{
+	padding-left: 0;
+}
+.menu li{
+	list-style: none;
+
+	border-bottom: 1px solid #242424;
+}
+.menu li:hover{
+	background: #474747;
+	color:#fff;
+}
+.menu li a{
+	padding-left: 2rem;
+}
+.menu li+li{
+	border-top: 1px solid #3D3D3D;
+}
+

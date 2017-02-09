@@ -1,0 +1,159 @@
+/* Write your styles */
+body{
+	background: #ffffff;
+}
+.am-header-default{
+	background: #fff ;
+	/*height: 86px;*/
+
+}
+.h-btn{
+	background: #02548f;
+	display: inline-block;
+	width: 3rem;
+	line-height: 36px;
+	height: 3rem;
+	border-radius: 5px;
+}
+.am-slider-default .am-control-nav{
+	bottom:10px;
+}
+.am-slider-default{
+	margin-bottom: 0;
+}
+.am-search{
+	background: #252525;
+	padding:1rem;
+}
+.am-search input{
+	border:4px solid #02548f;
+}
+.am-search span{
+	background: #02548f;
+}
+
+.pro-cate{
+	margin-top:1rem;
+}
+.pro-cate li{
+	text-align: center;
+	padding:.5rem;
+}
+
+.pro-cate li a{
+	display: inline-block;
+	width: 100%;
+	
+	background: #888888;
+}
+.pro-cate li a:hover{
+	background: #606060;
+	
+}
+.pro-cate li h3{
+	display: inline-block;
+	font-size:1.2rem;
+	color: #3c3939;
+	
+	padding:.5rem 1.5rem;
+}
+.am-list-news-hd{
+	text-align: center;
+}
+.am-list-news-hd strong{
+	display: block;
+	font-size: 4rem;
+	color:#003c72;
+}
+.am-list-news-hd span{
+	font-size: 2.8rem;
+	color:#888888;
+
+}
+.pro-show li .am-gallery-item{
+	background: #fff;
+}
+.pro-show li .am-gallery-title{
+	padding:0.5rem;
+	font-size: 1.06rem;
+	color:#02548f;
+	text-align: center;
+}
+.pro-show li .am-gallery-desc{
+	padding:0.5rem;
+	font-size: 0.9rem;
+	color:#555555;
+	text-align: center;
+}
+.more .am-btn-warning{
+	background-color: #3c3c3c;
+	border-color:#989898;
+}
+.more{
+	margin: 2rem 0;
+}
+
+.intro h3{
+	font-size: 1.8rem;
+	color: #02548f;
+}
+.intro p{
+	font-size: 1rem;
+}
+
+.m-pro .am-list-news-hd{
+	height: 3.1rem;
+	background: url(../images/pro-title.png) no-repeat cneter cneter;
+}
+
+
+.am-list>li{
+	background-color: #fff;
+}
+.news li:nth-child(1){
+	border-top: none;
+}
+.news li a{
+	font-size: 1rem;
+	color:#555555;
+}
+/*联系我们*/
+.m-contact{
+	background: #3c3c3c;
+}
+.m-contact .am-u-sm-6{
+	text-align: center;
+}
+.m-contact p{
+	font-size: 1.2rem;
+	color: #fff;
+	margin:0;
+	text-align: left;
+}
+.footer{
+	background: none;
+	margin:2rem 0;
+}
+.navbar .am-navbar-nav{
+	background-color: #2e2e2e;
+
+}
+.menu{
+	padding-left: 0;
+}
+.menu li{
+	list-style: none;
+
+	border-bottom: 1px solid #242424;
+}
+.menu li:hover{
+	background: #474747;
+	color:#fff;
+}
+.menu li a{
+	padding-left: 2rem;
+}
+.menu li+li{
+	border-top: 1px solid #3D3D3D;
+}
+
